@@ -1,6 +1,6 @@
 {
-	"Name": "Legacy V2",
-	"Version": 1746944511,
+	"Name": "Legacy V3",
+	"Version": 1747602130,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -57,7 +57,9 @@
 				"40",
 				"41",
 				"42",
+				"279",
 				"43",
+				"280",
 				"44",
 				"268",
 				"267",
@@ -98,6 +100,7 @@
 				"83",
 				"84",
 				"88",
+				"281",
 				"89",
 				"90",
 				"91",
@@ -559,7 +562,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"138",
-				"181",
 				"191"
 			],
 			"KillerComboPerkBans": [],
@@ -637,7 +639,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"138",
-				"181",
 				"191"
 			],
 			"KillerComboPerkBans": [],
